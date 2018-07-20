@@ -1,9 +1,9 @@
 class SimpleToBoost < Formula
   desc "Go CLI tool to import a Simplenote bulk export into Boostnote"
   homepage "https://github.com/scottrigby/simple-to-boost"
-  url "https://github.com/scottrigby/simple-to-boost/releases/download/0.2.0/simple-to-boost_0.2.0_Darwin_x86_64.tar.gz"
-  version "0.2.0"
-  sha256 "1e4ae9abc8508e45d0d5911caa858d580638165fdebf9acf7284f9f25c07d8db"
+  url "https://github.com/scottrigby/simple-to-boost/releases/download/0.2.1/simple-to-boost_0.2.1_Darwin_x86_64.tar.gz"
+  version "0.2.1"
+  sha256 "edc5b54878bf82f190671715188a09cd53f24c5a142c90d904d48e33150afa8c"
 
   def install
     bin.install "simple-to-boost"
